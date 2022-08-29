@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+	  "strict": true,
+	  "module": "CommonJS",
+	  "declaration": true,
+	  "removeComments": true,
+	  "emitDecoratorMetadata": true,
+	  "experimentalDecorators": true,
+	  "noUnusedLocals": true,
+	  "noUnusedParameters": true,
+	  "target": "ES2019",
+	  "sourceMap": true,
+	  "outDir": "./dist",
+	  "incremental": true,
+	  "skipLibCheck": true,
+	  "baseUrl": "src",
+	  "alwaysStrict": true,
+	  "noImplicitAny": true,
+	  "esModuleInterop":true
+	}
+}
